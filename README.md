@@ -21,7 +21,7 @@ available only upon request.
 
 ## Demo
 
-- Demo video: [videos/pipe-tools-demo.mp4](videos/pipe-tools-demo.mp4)
+- Demo video: [YouTube](https://youtu.be/iqUPw-w2OB4)
 - Russian PDF guide: [docs/Pipe Tools (RU).pdf](docs/Pipe%20Tools%20(RU).pdf)
 - Add-on structure notes: [docs/addon-structure.md](docs/addon-structure.md)
 - Interface screenshots: [images/interface](images/interface)
@@ -40,7 +40,6 @@ available only upon request.
 |-- docs/       # PDF documentation and add-on structure notes
 |-- examples/   # Public examples and reference links
 |-- images/     # Screenshots for GitHub showcase pages
-|-- videos/     # Demo recordings
 `-- README.md
 ```
 
