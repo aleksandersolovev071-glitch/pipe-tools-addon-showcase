@@ -51,7 +51,7 @@ available only upon request.
 
 ## Compatibility
 
-The showcased add-on targets Blender 4.0+.
+The showcased add-on targets Blender 4.2+.
 
 ## License
 
